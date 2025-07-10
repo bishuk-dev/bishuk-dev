@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Bishu Kumar</h1>
 <table>
   <tr>
-    <td width="50%">
-      <p align="centre"><i>Aspiring Developer | CSE-AIML Student | Building World with Code</i></p>
+    <th width="25%">
+      <p align="centre"><i>Indian</i></p>
     </td>
-    <td width="50%">
+    <th width="75%">
       <p align="centre"><i>Aspiring Developer | CSE-AIML Student | Building World with Code</i></p>
     </td>
   </tr>
@@ -41,18 +41,3 @@
 </p>
 
 ---
-
-<!--
-**bishuk-dev/bishuk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
